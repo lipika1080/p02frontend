@@ -8,7 +8,6 @@ import {
   useToast,
   VStack
 } from '@chakra-ui/react';
-import axios from 'axios';
 import api from '../services/api';
 
 const AppointmentForm = () => {
